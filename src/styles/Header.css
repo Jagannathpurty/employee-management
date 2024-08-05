@@ -1,0 +1,13 @@
+.header{
+    text-align:center;
+}
+
+button{
+    padding:3px;
+    background:blue;
+    height:30px;
+    border-radius:5px;
+    border:none;
+    color:white;
+    cursor:pointer;
+}
